@@ -3,7 +3,7 @@ layout: post
 title:  牛津通识《儿童心理学》的启示
 date:   2021-01-18 14:20
 categories: Book
-author: 豆藏
+author: 栗子
 ---
 
 * content
