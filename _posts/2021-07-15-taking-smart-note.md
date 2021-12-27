@@ -3,7 +3,7 @@ layout: post
 title:  ZK卡片以及Notion实现
 date:   2021-07-15 16:00
 categories: Book
-author:  豆藏
+author:  栗子
 ---
 
 * content
