@@ -12,13 +12,11 @@ type: page
 ## 关于我
 
 
-Data Scientist & Bioinformatician
-
-* 2017.10 Data Scientist @ [HomeAway](https://www.homeaway.com/)
-* 2012.06 Computational Biologist @ UTSW
+一个普通人
 
 
-## 联系我
+## 友链
+（不能RSS订阅的就在这里记录了）
 
-* GitHub：[bchen4](https://github.com/bchen4)
+* Great grey owl：[Great grey Owl](https://greatgreyowl.blog/)
 
