@@ -18,5 +18,5 @@ type: page
 ## 友链
 （不能RSS订阅的就在这里记录了）
 
-* Great grey owl：[Great grey Owl](https://greatgreyowl.blog/)
+* [Great grey Owl](https://greatgreyowl.blog/)
 
