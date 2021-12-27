@@ -3,7 +3,7 @@ layout: post
 title:  我从来没这么撕裂过——《Normal People》刷剧读书感
 date:   2021-02-14 21:14
 categories: Book
-author:  豆藏
+author:  栗子
 ---
 
 * content
