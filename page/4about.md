@@ -19,4 +19,5 @@ type: page
 （不能RSS订阅的就在这里记录了）
 
 * [Great grey Owl](https://greatgreyowl.blog/)
+* [小触手的书房](https://heiheihei.ca/)
 
