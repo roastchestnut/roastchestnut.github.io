@@ -25,3 +25,5 @@ type: page
 * [云五](https://yukieyun.net)
 * [猫和柴的野游](https://meowshiba.com)
 * [无竹斋](https://bamboobone9.com)
+* [穿堂风](https://simona.life/)
+* [不知年](https://permanentjetlag.montaigne.io/)
