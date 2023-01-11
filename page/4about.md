@@ -27,3 +27,8 @@ type: page
 * [无竹斋](https://bamboobone9.com)
 * [穿堂风](https://simona.life/)
 * [不知年](https://permanentjetlag.montaigne.io/)
+* [椒盐豆豉](https://blog.douchi.space/)
+* [手倦拋書午夢長](https://www.shingireservation.com/)
+* [波澜随心起](https://randomwaves.space/)
+* [怀袖中莲心红](http://www.emilyzh.me/)
+* 
