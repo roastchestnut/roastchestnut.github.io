@@ -32,3 +32,4 @@ type: page
 * [波澜随心起](https://randomwaves.space/)
 * [怀袖中莲心红](http://www.emilyzh.me/)
 * [萧瀚](https://xiaohanzyt.wordpress.com/)
+* [宇宙乘客](https://afdian.net/album/6cef8f68686a11ebb89c52540025c377)
